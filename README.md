@@ -40,4 +40,3 @@ This Solution helps the problem of toxic, not organized, recyclable trash or oth
 2. Labour Transformation: many labour workers do their livelihood by picking individual trash or selling recyclable trash.
 3. Technical Dependencies will occur as location spotting, camera quality and Municipal Area boundary.
 4. Privacy issue is another risk factor as it may mistekenly collect the image of passing by people which could be stored as data.
-5. 
